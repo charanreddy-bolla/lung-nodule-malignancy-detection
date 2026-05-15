@@ -1,0 +1,55 @@
+# A Hybrid Optimizing and Clustering Lung Nodule Malignancy Using Multi-Prototype Attention Capsule Framework
+
+## Overview
+This project presents a deep learning-based framework for lung nodule malignancy prediction using CT scan images. The proposed system combines Efficient Capsule Networks, Self-Attention Routing, Multi-Prototype Clustering, and Distribution-Aware Optimization to improve interpretability and prediction accuracy.
+
+## Features
+- Lung nodule malignancy prediction
+- Self-attention capsule routing
+- Multi-centroid prototype clustering
+- CT scan image preprocessing
+- Explainable AI framework
+- Lightweight and efficient architecture
+
+## Technologies Used
+- Python
+- TensorFlow / PyTorch
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Dataset
+LIDC-IDRI Dataset
+
+## Project Modules
+1. Data Preprocessing
+2. Feature Extraction
+3. Capsule Network Training
+4. Prototype Clustering
+5. Malignancy Prediction
+6. Reconstruction Decoder
+
+## Results
+- Improved clustering stability
+- Better interpretability
+- Robust malignancy prediction
+- Lightweight deployment support
+
+## Authors
+- B. Charan Reddy
+- T. Sravan Kumar
+- P. Himawanth Reddy
+- K. Mokshak Sri
+
+## Research Area
+Artificial Intelligence | Deep Learning | Medical Image Processing | Healthcare Analytics
+
+## Future Scope
+- 3D CT scan implementation
+- Real-time clinical deployment
+- Advanced explainable AI integration
+
+## License
+MIT License
